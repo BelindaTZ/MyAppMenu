@@ -11,7 +11,7 @@ Aplicación de menú interactivo desarrollada en **Kotlin** para Android. Una in
 
 ## 📸 Captura de Pantalla
 
-![MyAppMenu](https://github.com/BelindaTZ/MyAppMenu/raw/main/screenshot.png)
+![MyAppMenu](app/src/main/res/drawable/screenshot.png)
 
 La aplicación presenta las siguientes secciones principales:
 
@@ -54,6 +54,9 @@ MyAppMenu/
 │   │   └── main/
 │   │       ├── java/
 │   │       ├── res/
+│   │       │   ├── drawable/
+│   │       │   │   └── screenshot.png
+│   │       │   └── ...
 │   │       └── AndroidManifest.xml
 │   └── build.gradle
 ├── README.md
